@@ -3,6 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
+//THIS CLASS HAS METHOD THAT HELPS IN CONNECTING WITH THE DERBY DATABASE
 package com.niit.gniitproject.daoimpl;
 
 import java.sql.Connection;
